@@ -33,7 +33,7 @@ button:hover {
 ul {
   list-style-type: none;
   font-size: 20px;
-  background-image: url(src/images/cloudy.png);
+  background-image: url(images/cloudy.png);
   background-size: cover;
 }
 .inactiveLink {
