@@ -40,3 +40,8 @@ ul {
   pointer-events: none;
   cursor: default;
 }
+
+.repository {
+  display: block;
+  text-align: center;
+}
